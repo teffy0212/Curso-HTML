@@ -3,9 +3,10 @@
     <head>
         <title>Ejercicio de Introduccion a HTML en OpenBootCamp
         </title>
+    </head>
         <body>
-            <p>Este es mi primer comentario de dos lineas</p>
-            <p>Aprendiendo a documentar en codigo con OpenBootCamp</p>
+            <!---<span>Este es mi primer comentario de dos lineas</span>
+            <span>Aprendiendo a documentar en codigo con OpenBootCamp</span>--->
             <div>
                 <h1>Lista desordenada</h1>
                 <ul>
@@ -18,5 +19,4 @@
                 </ul>
             </div>
         </body>
-    </head>
 </Html>
